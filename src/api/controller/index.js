@@ -1,0 +1,1 @@
+exports.healthController=require('./health/healthController')

@@ -1,0 +1,1 @@
+exports.healthService=require('./health/healthService')
